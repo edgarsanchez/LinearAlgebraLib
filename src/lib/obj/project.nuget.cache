@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/4U+VP+A32G5ob+auPMYC0NL5+tKUN6p+5kl+AMc+wTO8xCAUbEiBw8tuOhlFOYrCJU3MlRyHAxvMyByu3V3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sese4\\OneDrive\\Escritorio\\Tec\\Linear Algebra\\LinearAlgebraLib\\src\\lib\\lib.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sese4\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

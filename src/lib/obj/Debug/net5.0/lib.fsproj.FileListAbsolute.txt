@@ -1,0 +1,8 @@
+C:\Users\sese4\OneDrive\Escritorio\Tec\Linear Algebra\LinearAlgebraLib\src\lib\bin\Debug\net5.0\lib.deps.json
+C:\Users\sese4\OneDrive\Escritorio\Tec\Linear Algebra\LinearAlgebraLib\src\lib\bin\Debug\net5.0\lib.dll
+C:\Users\sese4\OneDrive\Escritorio\Tec\Linear Algebra\LinearAlgebraLib\src\lib\bin\Debug\net5.0\lib.pdb
+C:\Users\sese4\OneDrive\Escritorio\Tec\Linear Algebra\LinearAlgebraLib\src\lib\obj\Debug\net5.0\lib.fsprojAssemblyReference.cache
+C:\Users\sese4\OneDrive\Escritorio\Tec\Linear Algebra\LinearAlgebraLib\src\lib\obj\Debug\net5.0\lib.AssemblyInfoInputs.cache
+C:\Users\sese4\OneDrive\Escritorio\Tec\Linear Algebra\LinearAlgebraLib\src\lib\obj\Debug\net5.0\lib.AssemblyInfo.fs
+C:\Users\sese4\OneDrive\Escritorio\Tec\Linear Algebra\LinearAlgebraLib\src\lib\obj\Debug\net5.0\lib.dll
+C:\Users\sese4\OneDrive\Escritorio\Tec\Linear Algebra\LinearAlgebraLib\src\lib\obj\Debug\net5.0\lib.pdb
