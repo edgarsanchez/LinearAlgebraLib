@@ -9,6 +9,7 @@
     <Compile Include="LinearAlgebra.fs" />
     <Compile Include="adjtrans.fs" />
     <Compile Include="generic.fs" />
+    <Compile Include="lu.fs" />
   </ItemGroup>
 
 </Project>
